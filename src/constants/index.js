@@ -205,8 +205,8 @@ const projects = [
   },
   {
     id: 'project-3',
-    name: 'Tarjetas Prepago',
-    description: 'En el uso de nuestro sistema, la tarjeta prepago se convierte en tu aliada para una gestión financiera efectiva y sin complicaciones. Con nuestra plataforma, puedes cargar fondos en tu tarjeta prepago de manera rápida y segura, lo que te permite tener un control total sobre tus gastos. ',
+    name: 'Mision',
+    description: "Somos la empresa BusES busca una nueva forma de facilitar a través de una aplicación web con pagos virtuales y modernizar el sistema de  transporte público del país Guatemala siempre pensando en el medio ambiente, reduciendo la huella de carbono y fortaleciendo la seguridad pública de nuestros usuarios y optimizar sus tiempos de espera.",
     tags: [
       {
         name: 'nextjs',
@@ -227,8 +227,14 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Monitoreo',
-    description: `El monitoreo en tiempo real es una función esencial de nuestro sistema que te proporciona información instantánea y actualizada sobre eventos, actividades o datos específicos en un momento dado. Con esta capacidad, puedes seguir de cerca y observar lo que está ocurriendo en tiempo real, sin ningún retraso o demora.`,
+    name: 'Vision',
+    description: `La empresa BusES busca convertirse en una herramienta indispensable 
+    de uso diario de los usuarios del transporte público en Guatemala, a 
+    través de la facilidad de pago y de acceso a las rutas de buses 
+    disponibles. Estableciendo, a su vez, una relación de confianza, 
+    brindando seguridad de los datos y en la vía. Basándonos en el 
+    compromiso de brindar un servicio de calidad que sea de interés para 
+    los usuarios, ciudadanos y turistas de dicho país.`,
     tags: [
       {
         name: 'nextjs',
